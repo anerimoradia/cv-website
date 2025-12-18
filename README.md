@@ -47,3 +47,6 @@ The project description can be found in roadmap.sh -> https://roadmap.sh/project
 ## Notes
 - This project is intentionally **unstyled** to focus on HTML structure.
 - Styling will be added in a separate project
+
+## Solution
+- Shareable link -> https://roadmap.sh/projects/basic-html-website/solutions?u=66c52a3b34a9226f385ab651
