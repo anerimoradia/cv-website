@@ -2,6 +2,9 @@
 
 This project is basic multi-stage website built using **HTML only**.
 The goal is to learn how to structure a website semantically before adding any styling.
+
+The project description can be found in roadmap.sh -> https://roadmap.sh/projects/basic-html-website
+
 ---
 
 ## Project Structure
